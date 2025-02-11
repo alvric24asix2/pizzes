@@ -25,7 +25,7 @@
         // exit(0);
       }
       echo "<br>";
-      echo "Autor: dacomo"."<br>";
+      echo "Autor: alvric24asix2"."<br>";
     ?>
 <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>  
 </body>
